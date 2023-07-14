@@ -121,7 +121,7 @@
 }
 
 .section-title {
-  margin: 0 auto 20px; 
+  margin: 0 auto 20px;
   width: 60%;
   line-height: 1.15;
   font-size: 60px;
@@ -135,7 +135,7 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-  text-align: center; 
+  text-align: center;
 }
 
 .table {
@@ -291,7 +291,7 @@
 
 .footer__columns_content_social {
   display: flex;
-  flex-direction: column;  
+  flex-direction: column;
 }
 
 .footer__social-icon {
